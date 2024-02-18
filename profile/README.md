@@ -1,6 +1,7 @@
 <div align="center">
 <img src="https://github.com/zag/podlite-desktop/raw/master/doc/podlite-desktop.png" alt="Podlite editor logo" width="650">
 </div>
+
 **Podlite is a lightweight block-based markup language designed for flexibility and ease of use.**
 
 ## Useful links
