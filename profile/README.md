@@ -1,7 +1,7 @@
 <div align="center">
-<a href="https://podlite.org">
-<img src="https://github.com/podlite/.github/assets/31441/c95dfe73-6fa4-4532-addc-ba1fb0d56acb"  height="350" />
-</a>
+
+[![Podlite](https://github.com/podlite/podlite-specs/blob/main/assets/bigtitle-social-logo.png)](https://podlite.org)
+
 
 🌟 Podlite is a lightweight block-based markup language designed for flexibility and ease of use 🌟
 
