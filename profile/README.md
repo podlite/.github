@@ -35,7 +35,7 @@
 - [How-to article](https://zahatski.com/2022/8/23/1/start-you-own-blog-site-with-podlite-for-web)
 - [Issues](https://github.com/podlite/podlite-specs/issues)
 - [Changelog](https://github.com/podlite/podlite-web/releases)
-- [Pactical case: Raku knowledge base ](https://raku-knowledge-base.podlite.org/)
+- [Practical case: Raku knowledge base ](https://raku-knowledge-base.podlite.org/)
 
 </td><td valign=top><div align="center">
   
