@@ -32,7 +32,6 @@
 </div>
 
 - [Podlite-web](https://github.com/podlite/podlite-web)
-
 - [How-to article](https://zahatski.com/2022/8/23/1/start-you-own-blog-site-with-podlite-for-web)
 - [Issues](https://github.com/podlite/podlite-specs/issues)
 - [Changelog](https://github.com/podlite/podlite-web/releases)
@@ -62,7 +61,6 @@
 - [podlite.org](https://podlite.org)
 - [pod6.in](https://pod6.in/)
 - [Podlite project updates](https://podlite.org/contents)
-
 - [Funding the ongoing development](https://opencollective.com/podlite)
 
 </td></tr></table>
